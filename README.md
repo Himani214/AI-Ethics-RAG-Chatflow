@@ -30,11 +30,9 @@ The project demonstrates how **AI + Ethics research** can be combined into a pra
 
 
 ### Chat Interface
-![Chat Screenshot]<img width="1900" height="841" alt="image" src="https://github.com/user-attachments/assets/33ade4e4-0fdd-4485-a622-0733031027ce" />
+<img width="1900" height="841" alt="image" src="https://github.com/user-attachments/assets/33ade4e4-0fdd-4485-a622-0733031027ce" />
 <img width="665" height="783" alt="image" src="https://github.com/user-attachments/assets/d3755d80-dcba-48e6-b9f4-1cd1d9fef28c" />
 
-
-*(Replace with your actual screenshot paths in the repo.)*
 
 ---
 
